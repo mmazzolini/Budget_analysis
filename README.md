@@ -1,7 +1,7 @@
 # Budget_analysis
 
 
-this repository collects the code for the water budget analysis for alpine basins.
+this small repository collects the code for the water budget analysis for alpine basins.
 data
 
   - group_by_month_nc.ipynb groups the daily ERA5 dataset for Evapotranspiration on a monthly basis
